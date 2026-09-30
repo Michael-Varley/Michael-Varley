@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Michael
 
-<!--
-**Michael-Varley/Michael-Varley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Specialist in Philadelphia who builds automations, integrations, and AI workflows.
 
-Here are some ideas to get you started:
+## What I work on
+- **Workflow automation** with Power Automate and Freshservice
+- **Integrations and data mapping** across Microsoft 365, Entra ID, and Intune
+- **Safe AI adoption**: usage policies, human review, and protecting sensitive data
+- **Documentation**: SOPs, knowledge base articles, and handoff guides
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Git and GitHub workflows
+- Make and Zapier
+- Building with Claude
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/varley-michael)
